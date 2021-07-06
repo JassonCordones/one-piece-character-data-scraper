@@ -1,4 +1,4 @@
-# one-piece-chraracter-data-scraper
+# one-piece-character-data-scraper
 ---
 This project downloads the info for each of the individual canon characters of the Japanese manga series written and illustrated by Eiichiro Oda. [one piece](https://en.wikipedia.org/wiki/One_Piece) listed on https://onepiece.fandom.com/wiki/List_of_Canon_Characters. 
 
